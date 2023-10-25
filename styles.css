@@ -16,7 +16,7 @@ body {
   }
   .number {
     background-color: hsl(309, 86%, 49%); /* Cor de fundo azul */
-    color: hsl(108, 94%, 49%); /* Cor do texto branca */
+    color: rgba(216, 204, 204, 0.973); /* Cor do texto branca */
   }
   
   #display {
