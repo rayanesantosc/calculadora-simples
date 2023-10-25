@@ -6,7 +6,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: hsl(337 4% 12%);
+    background-color: hwb(340 12% 24%);
     }  
   .calculator {
     border: 1px solid hsl(300 , 88%, 23%);
@@ -15,7 +15,7 @@ body {
     padding: 10px;
   }
   .number {
-    background-color: #ef23d0; /* Cor de fundo azul */
+    background-color: hsl(309, 86%, 49%); /* Cor de fundo azul */
     color: hsl(108, 94%, 49%); /* Cor do texto branca */
   }
   
